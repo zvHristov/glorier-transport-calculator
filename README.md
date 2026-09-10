@@ -48,7 +48,7 @@
 
 ```bash
 # 1. Клонирай проекта
-git clone https://github.com/ZvHristov/glorier-transport-calculator.git
+git clone https://github.com/zvHristov/glorier-transport-calculator
 cd glorier-transport-calculator
 
 # 2. Инсталирай зависимости
@@ -203,7 +203,7 @@ prisma/
 ## 👨‍💻 Автор
 
 **Звездомир Христов**
-- GitHub: [@ZvHristov](https://github.com/ZvHristov)
+- GitHub: [@ZvHristov](https://github.com/zvHristov)
 - Email: zv.hristov@gmail.com
 - LinkedIn: [linkedin.com/in/zvhristov](https://linkedin.com/in/zvhristov)
 
