@@ -9,7 +9,21 @@
 ![Mapbox](https://img.shields.io/badge/Mapbox-GL-orange)
 
 ---
+## 📸 Screenshots
 
+### 🖥️ Основен екран – Калкулатор
+![Calculator Main](docs/screenshots/01-calculator-main.png)
+
+### 📊 Резултати и разбивка на разходите
+![Results Panel](docs/screenshots/02-results-panel.png)
+
+### 🗺️ Интерактивна карта с маршрут
+![Map Route](docs/screenshots/03-map-route.png)
+
+### 📚 История на изчисленията
+![History](docs/screenshots/04-history.png)
+
+---
 ## 🎯 Какво прави
 
 - **Изчислява разстояние** между две точки в Европа (Haversine + fallback по държави)
