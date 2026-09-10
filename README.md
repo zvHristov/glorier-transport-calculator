@@ -48,7 +48,7 @@
 | **Tailwind CSS** | 4 | Бърз styling |
 | **Mapbox GL** | Latest | Интерактивна карта |
 | **Prisma** | 6 | ORM за база данни |
-| **SQLite** | – | Лека база за прототип |
+| **PostgreSQL (Neon)** | – | Production база данни |
 | **Zod** | 4 | Валидация на данни |
 | **Lucide React** | Latest | Икони |
 
@@ -60,13 +60,27 @@
 - Node.js 20+
 - npm или yarn
 
-### Инсталация
+### База данни
+
+Проектът използва **PostgreSQL** (чрез **Neon**) за production среда. Локално може да се използва и SQLite за development.
+
+**Environment variables:**
+- `DATABASE_URL` – PostgreSQL connection string (от Neon)
+- `NEXT_PUBLIC_MAPBOX_TOKEN` – Mapbox API token
+
+**Миграции:**
+
+```bash
+npx prisma db push       # Синхронизира схемата
+npx prisma generate      # Генерира Prisma Client
+npx prisma studio        # Визуален интерфейс
 
 ```bash
 # 1. Клонирай проекта
 git clone https://github.com/zvHristov/glorier-transport-calculator
 cd glorier-transport-calculator
 
+### Инсталация
 # 2. Инсталирай зависимости
 npm install
 
