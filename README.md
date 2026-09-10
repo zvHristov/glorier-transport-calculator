@@ -2,7 +2,7 @@
 
 Модерен калкулатор за транспортни разходи, създаден за диспечерите на **Glorier**.
 
-> 🔗 **Живо демо:** [glorier-transport-calculator.vercel.app](https://glorier-transport-calculator.vercel.app)
+> 🔗 **демо линк:** [glorier-transport-calculator.vercel.app](https://glorier-transport-calculator.vercel.app)
 
 Модерен калкулатор за транспортни разходи, създаден за диспечерите на **Glorier**.
 
