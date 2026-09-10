@@ -3,7 +3,6 @@
 Модерен калкулатор за транспортни разходи, създаден за диспечерите на **Glorier**.
 
 > 🔗 **демо линк:** [glorier-transport-calculator.vercel.app](https://glorier-transport-calculator.vercel.app)
-
 Модерен калкулатор за транспортни разходи, създаден за диспечерите на **Glorier**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
@@ -11,7 +10,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-4-cyan)
 ![Prisma](https://img.shields.io/badge/Prisma-6-purple)
 ![Mapbox](https://img.shields.io/badge/Mapbox-GL-orange)
-
 ---
 ## 📸 Screenshots
 
